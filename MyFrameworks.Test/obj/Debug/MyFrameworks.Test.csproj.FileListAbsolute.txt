@@ -1,1 +1,9 @@
-D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\bin\Debug\MyFrameworks.Test.exe.config
+D:\Development\VisualStudio\MyFrameworks\bin-debug\MyFrameworks.Test.exe.config
+D:\Development\VisualStudio\MyFrameworks\bin-debug\MyFrameworks.Test.exe
+D:\Development\VisualStudio\MyFrameworks\bin-debug\MyFrameworks.Test.pdb
+D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\obj\Debug\MyFrameworks.Test.csprojResolveAssemblyReference.cache
+D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\obj\Debug\MyFrameworks.Test.Properties.Resources.resources
+D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\obj\Debug\MyFrameworks.Test.csproj.GenerateResource.Cache
+D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\obj\Debug\MyFrameworks.Test.exe
+D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\obj\Debug\MyFrameworks.Test.pdb
+D:\Development\VisualStudio\MyFrameworks\MyFrameworks.Test\obj\Debug\MyFrameworks.Test.Form1.resources

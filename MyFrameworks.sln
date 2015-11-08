@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFrameworks.Test", "MyFrameworks.Test\MyFrameworks.Test.csproj", "{8659D95D-02C3-431F-88EC-F6D7A090FD57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFrameworks.Controls", "MyFrameworks.Controls\MyFrameworks.Controls.csproj", "{8EC75D94-89B8-4D2F-AFD4-68CE302E4EC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8659D95D-02C3-431F-88EC-F6D7A090FD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8659D95D-02C3-431F-88EC-F6D7A090FD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8659D95D-02C3-431F-88EC-F6D7A090FD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EC75D94-89B8-4D2F-AFD4-68CE302E4EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EC75D94-89B8-4D2F-AFD4-68CE302E4EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EC75D94-89B8-4D2F-AFD4-68CE302E4EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EC75D94-89B8-4D2F-AFD4-68CE302E4EC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
